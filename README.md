@@ -1,9 +1,8 @@
-<img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
+<h1 align="center">👋 Hi, I’m Emre </h1>
+  
+<p align="center"> :man_technologist: I am a mobile developer from switzerland and am currently an apprentice
 
-- 👋 Hi, I’m @ciem2ent
-- 👀 I’m interested in sports, coding and fashion
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on -
+
 - 📫 How to reach me: emre.cimen@ypsomed.com
 
 
