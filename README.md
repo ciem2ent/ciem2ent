@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m Emre </h1>
   
 <p align="center"> :man_technologist: I am a mobile developer from switzerland and am currently an apprentice
+<p align="center">📫 How to reach me: <a href="mailto:emre.cimen@ypsomed.com">emre.cimen@ypsomed.com</a>
 
-
-- 📫 How to reach me: emre.cimen@ypsomed.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ciem2ent}"/>
 
 
 
