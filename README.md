@@ -3,7 +3,7 @@
 <p align="center"> :man_technologist: I am a mobile developer from switzerland and am currently an apprentice
 <p align="center">📫 How to reach me: <a href="mailto:emre.cimen@ypsomed.com">emre.cimen@ypsomed.com</a>
 
-<img src=https://github-readme-stats.vercel.app/api?username=ciem2ent/>
+<img src="https://github-readme-stats.vercel.app/api?username=ciem2ent" />
 
 
 
