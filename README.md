@@ -9,7 +9,7 @@
 
 <br />
 
-<p align="center"> 💻 Workspace specifaction baksldaskldjaslkdjla
+<p align="center"> 💻 Workspace specifaction
 
 
 <br />
