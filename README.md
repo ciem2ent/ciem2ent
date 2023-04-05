@@ -28,8 +28,8 @@
 <br />
 <p align="center"> 💻 Workspace specifaction</p>
 <p float="left" align="center">
-  <img src="https://img.shields.io/badge/Apple-Macbook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-PC-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple-Macbook_Air-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-HP zBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 <br />
 <p align="center">📈 My gitgub stats</p>
