@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Emre </h1>
-<p align="center"> I'm a mobile developer from Switzerland and currently an apprentice at Ypsomed AG.</p>
+<p align="center"> I'm a software developer from Switzerland and currently an apprentice at Ypsomed AG.</p>
 <br />
 <p align="center">📫 How to reach me: 
   <p align="center">
